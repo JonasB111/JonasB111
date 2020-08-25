@@ -9,11 +9,11 @@
 - ⚡ Fun fact: I love piano playing, psychology and video games
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="JonasB Spotify Playing" width="350" />](https://open.spotify.com/playlist/21KULQ0PjwmZgkxwD6wpDq?si=bFJRZgbhQJevYnuOHVjN1A)
+[<img src="https://spotify-now-playing-opal.vercel.app/api/spotify-playing" alt="Jonas Buivydas Spotify Playing" width="350" />](https://open.spotify.com/playlist/21KULQ0PjwmZgkxwD6wpDq?si=bFJRZgbhQJevYnuOHVjN1A)
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jonas Buivydas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
