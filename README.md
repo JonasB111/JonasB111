@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Become a Junior React/JS developer
 - ⚡ Fun fact: I love piano playing, psychology and video games
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
@@ -16,8 +16,12 @@
 
 
 
-[![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa)
-[![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/jonasb111-spotify-now-playing)
+[![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify-now-playing)](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa)
+[![Spotify](https://jonasb111-spotify-now-playing.jonasb111.vercel.app//api/spotify)](https://open.spotify.com/user/jonasb111-spotify-now-playing) -->
+
+<!-- jonasb111-spotify-now-playing.vercel.app
+https://jonasb111-spotify-now-playing-git-master.jonasb111.vercel.app/
+https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa?si=hUu6NTkXRaOFzv8Z1itMQA -->
 
 ### Connect with me:
 
@@ -25,9 +29,6 @@
 
 <br />
 
-<!-- jonasb111-spotify-now-playing.vercel.app
-https://jonasb111-spotify-now-playing-git-master.jonasb111.vercel.app/
-https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa?si=hUu6NTkXRaOFzv8Z1itMQA -->
 
 ### Languages and Tools:
 
