@@ -9,11 +9,12 @@
 - ⚡ Fun fact: I love piano playing, psychology and video games
 
 ### Spotify Playing 🎧
-[<img src="https://jonasb111-spotify-now-playing.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa?si=hFd9VN2tQiSFAAV49KyJYg)
 
-[<img src="https://jonasb111-spotify-now-playing-git-master.jonasb111.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa?si=hUu6NTkXRaOFzv8Z1itMQA)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-[<img src="https://jonasb111-spotify-now-playing.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/jonasb111-spotify-now-playing.vercel.app)
+[<img src="https://jonasb111-spotify-now-playing.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa)
+
+
 
 [![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa)
 [![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/jonasb111-spotify-now-playing)
