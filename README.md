@@ -16,7 +16,7 @@
 
 
 
-[![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa)
+[![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify-playing)](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa)
 [![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/jonasb111-spotify-now-playing)
 
 ### Connect with me:
