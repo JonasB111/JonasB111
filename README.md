@@ -9,13 +9,24 @@
 - ⚡ Fun fact: I love piano playing, psychology and video games
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-opal.vercel.app/api/spotify-playing" alt="Jonas Buivydas Spotify Playing" width="350" />](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa?si=hFd9VN2tQiSFAAV49KyJYg)
+[<img src="https://jonasb111-spotify-now-playing.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa?si=hFd9VN2tQiSFAAV49KyJYg)
+
+[<img src="https://jonasb111-spotify-now-playing-git-master.jonasb111.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa?si=hUu6NTkXRaOFzv8Z1itMQA)
+
+[<img src="https://jonasb111-spotify-now-playing.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/jonasb111-spotify-now-playing.vercel.app)
+
+[![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify)](https://open.spotify.com/user/jonasb111-spotify-now-playing)
 
 ### Connect with me:
 
 [<img align="left" alt="Jonas Buivydas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+<!-- jonasb111-spotify-now-playing.vercel.app
+https://jonasb111-spotify-now-playing-git-master.jonasb111.vercel.app/
+https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa?si=hUu6NTkXRaOFzv8Z1itMQA -->
 
 ### Languages and Tools:
 
