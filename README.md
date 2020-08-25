@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love piano playing, psychology and video games
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-now-playing-opal.vercel.app/api/spotify-playing" alt="Jonas Buivydas Spotify Playing" width="350" />](https://open.spotify.com/playlist/21KULQ0PjwmZgkxwD6wpDq?si=bFJRZgbhQJevYnuOHVjN1A)
+[<img src="https://spotify-now-playing-opal.vercel.app/api/spotify-playing" alt="Jonas Buivydas Spotify Playing" width="350" />](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa?si=hFd9VN2tQiSFAAV49KyJYg)
 
 ### Connect with me:
 
