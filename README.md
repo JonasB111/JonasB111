@@ -2,9 +2,12 @@
 
 ## I'm a Developer, Student and Musician!
 
+This is the place where I currently upload my personal projects to
+review 📚
+
 - 🔭 I’m currently working on my personal projects! 😉
 - 🌱 I’m currently learning React, MySQL and PHP 
-- 👯 I’m looking for a Junior developer position
+- 🧭 I’m looking for a Junior developer position
 - 🥅 2020 Goals: Become a Junior React/JS developer
 - ⚡ Fun fact: I love piano playing, psychology and video games
 
