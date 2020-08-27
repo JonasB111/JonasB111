@@ -5,7 +5,7 @@
 This is the place where I currently upload my personal projects to
 review 📚
 
-- 🧗‍♂️ I’m currently working on my personal projects! 😉
+- 🧗‍♂️ I’m currently working on my personal projects! 
 - 🌱 I’m currently learning React, MySQL and PHP 
 - 🧭 I’m looking for a Junior developer position
 - 🥅 2020 Goals: Become a Junior React/JS developer
@@ -14,11 +14,7 @@ review 📚
 <!-- ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 [<img src="https://jonasb111-spotify-now-playing.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa)
-
-
-
 [![Spotify](https://jonasb111-spotify-now-playing.vercel.app/api/spotify-now-playing)](https://open.spotify.com/user/21qhg5lo5ji4e64227eeacrsa)
 [![Spotify](https://jonasb111-spotify-now-playing.jonasb111.vercel.app//api/spotify)](https://open.spotify.com/user/jonasb111-spotify-now-playing) -->
 
